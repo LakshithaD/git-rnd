@@ -6,6 +6,9 @@ public class F2 {
 
     public static void featureTwo() {
         System.out.println("Feature Two - F1");
+        System.out.println("Feature Two - F1");
+        System.out.println("Feature Two - F1");
+        System.out.println("Feature Two - F1");
     }
 
 }
