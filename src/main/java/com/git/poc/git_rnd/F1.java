@@ -9,4 +9,7 @@ public class F1 {
     public static void featureTwo() {
         System.out.println("Feature Two - F1");
     }
+    public static void featureeTwo() {
+        System.out.println("Feature Two - F1");
+    }
 }
